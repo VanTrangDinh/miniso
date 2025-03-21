@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/miniso/static/js/main.e8e239cd.js",
+    "main.js": "/miniso/static/js/main.18f10ec7.js",
     "index.html": "/miniso/index.html",
-    "main.e8e239cd.js.map": "/miniso/static/js/main.e8e239cd.js.map"
+    "main.18f10ec7.js.map": "/miniso/static/js/main.18f10ec7.js.map"
   },
   "entrypoints": [
-    "static/js/main.e8e239cd.js"
+    "static/js/main.18f10ec7.js"
   ]
 }
